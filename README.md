@@ -12,7 +12,8 @@ Futuro Dev front-end!<br>
 
 💻 Portfólio: <br>
 <br>
-➡️ <a href="https://andrius-uryel.github.io/projeto-android/"> Projeto Android</a>
+➡️ <a href="https://andrius-uryel.github.io/projeto-android/"> Projeto Android</a> <br>
+➡️ <a href="https://andrius-uryel.github.io/projeto-efeito-parallax/"> Projeto Efeito Parallax</a>
 <!--
 **Andrius-Uryel/andrius-uryel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
