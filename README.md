@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 ![Badge em Follows](https://img.shields.io/github/followers/andrius-uryel?style=social)<br>
 ![Badge em stars](https://img.shields.io/github/gist/stars/andrius-uryel?style=social)
 <!--
