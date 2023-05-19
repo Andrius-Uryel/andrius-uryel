@@ -13,5 +13,5 @@ Futuro Dev front-end!<br>
 💻 Portfólio: <br>
 <br>
 ➡️ <a href="https://andrius-uryel.github.io/projeto-android/"> Projeto Android</a> <br>
-➡️ <a href="https://andrius-uryel.github.io/projeto-efeito-parallax/"> Projeto Efeito Parallax</a>
+➡️ <a href="https://andrius-uryel.github.io/projeto-efeito-parallax/"> Projeto Efeito Parallax</a><br>
 ➡️ <a href="https://andrius-uryel.github.io/projeto-social/"> Projeto Redes Sociais</a>
